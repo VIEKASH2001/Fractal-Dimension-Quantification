@@ -3,7 +3,8 @@
 
 Publication:
 Measurement of Retinal Blood Vessel Fractal Dimensions
-20th Dr EVM Scientific Session. Poster: http://www.eso.sankaranethralaya.org/drevm-2022/poster-2095.html
+20th Dr EVM Scientific Session. 
+Poster: http://www.eso.sankaranethralaya.org/drevm-2022/poster-2095.html
 
 Abstract
 
