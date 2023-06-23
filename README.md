@@ -7,7 +7,7 @@ Measurement of Retinal Blood Vessel Fractal Dimensions
 
 Poster: http://www.eso.sankaranethralaya.org/drevm-2022/poster-2095.html
 
-Abstract
+Abstract xyz
 
 Background: Fractals dimension (Df) is the quantification measure of blood vessels branching pattern. The retinal Df is reported to be a sensitive indicator in early vascular changes in various ocular vascular diseases like diabetic retinopathy. To the best of our knowledge, there is no inbuilt method to measure the Df by the commercially available retinal imaging devices.
 Aim: The paper describes a new custom method that helps in quantifying Df using the Graphical User Interface.
