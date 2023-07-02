@@ -1,5 +1,6 @@
-# Fractal-Dimension-Quantification
-
+<a>
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=50&duration=2000&pause=500&multiline=true&width=1500&height=80&lines=Fractal Dimension Quantification" alt="Typing SVG" />
+</a>
 
 Publication:
 Measurement of Retinal Blood Vessel Fractal Dimensions 
